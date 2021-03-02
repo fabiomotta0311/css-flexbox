@@ -2,4 +2,4 @@
 
 ## Criação de um perfil parecido com o Twitter
 
-![](../images/page.png)
+<img src="/images/page.png">
