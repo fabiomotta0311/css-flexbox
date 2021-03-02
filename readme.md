@@ -2,4 +2,4 @@
 
 ## Criação de um perfil parecido com o Twitter
 
-<img src="images/page.png">
+<img src="https://github.com/fabiomotta0311/css-flexbox/blob/master/images/page.PNG">
